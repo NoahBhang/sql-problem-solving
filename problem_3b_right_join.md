@@ -191,7 +191,7 @@ product_id | category | price | sales_count | total_quantity | total_sales_amoun
 
 ### RIGHT JOIN의 본질
 
-RIGHT JOIN은 **"오른쪽 테이블(products)의 모든 행을 보존하되, 왼쪽 테이블(orders)의 매칭된 행만 추가"**합니다.
+RIGHT JOIN은 **"오른쪽 테이블(products)의 모든 행을 보존하되, 왼쪽 테이블(orders)의 매칭된 행만 추가"** 합니다.
 
 **수학적 관점:**
 
@@ -262,7 +262,7 @@ $$
 \text{RIGHT JOIN 결과} = D_{\text{매칭}} \cup C
 $$
 
-이는 **"공역의 완전성을 보장하는 JOIN"**입니다.
+이는 **"공역의 완전성을 보장하는 JOIN"** 입니다.
 
 ---
 
@@ -276,4 +276,4 @@ $$
 - 기준: 모든 상품 보존 (공역)
 - 목표: 판매 여부 파악
 
-두 문제의 차이는 **"어느 테이블의 완전성을 보장하는가"**입니다.
+두 문제의 차이는 **"어느 테이블의 완전성을 보장하는가"** 입니다.
