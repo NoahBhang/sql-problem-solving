@@ -133,7 +133,7 @@ query_N.sql
 |------|------|--------|--------|
 | Problem 1 | ✅ 완료 | query_1.sql | ✓ |
 | Problem 2 | ✅ 완료 | query_2.sql | ✓ |
-| Problem 3 | ✅ 완료 | query_3a.sql, query_3b.sql, query_3c.sql | ✅ |
+| Problem 3 | ✅ 완료 | query_3a.sql, query_3b.sql, query_3c.sql | ✓ |
 
 ---
 
