@@ -131,9 +131,9 @@ query_N.sql
 
 | 문제 | 상태 | 깃허브 | 노션 |
 |------|------|--------|------|
-| problem 1 | ✅ 완료 | [query_1.sql](./query_1.sql) | [📄 보기](https://app.notion.com/p/Problem-1-3f208880239680b9a3bfe88fad0e62f5?source=copy_link) |
-| problem 2 | ✅ 완료 | [query_2.sql](./query_2.sql) | [📄 보기](https://app.notion.com/p/Problem-2-3f20888023968091b933f3271998f462?source=copy_link) |
-| problem 3 | ✅ 완료 | [query_3.sql](./query_3.sql) | [📄 보기](https://app.notion.com/p/SQL-3f20888023968039b764e15e7a8367a1) |
+| Problem 1 | ✅ 쿼리 / 📝 문서 작성 중 | [query_1.sql](./query_1.sql) · [풀이](./problem_1_customer_total_purchase.md) | [📄 보기](https://app.notion.com/p/Problem-1-3f208880239680b9a3bfe88fad0e62f5?source=copy_link) |
+| Problem 2 | ✅ 완료 | [query_2.sql](./query_2.sql) · [풀이](./problem_2_category_sales_analysis.md) | [📄 보기](https://app.notion.com/p/Problem-2-3f20888023968091b933f3271998f462?source=copy_link) |
+| Problem 3 | ✅ 완료 | [3a](./query_3a.sql) · [3b](./query_3b.sql) · [3c](./query_3c.sql) | [📄 보기](https://app.notion.com/p/SQL-3f20888023968039b764e15e7a8367a1) |
 ---
 
 **🎓 이 포트폴리오는 Coupang Rocket Research Lab과 Musinsa 데이터 분석/엔지니어 직무 지원을 목표로 작성되었습니다.**
