@@ -141,8 +141,8 @@ query_N.sql
 
 **마지막 업데이트:** 2026-10-08
 
+## Problem 3: 외부조인과 데이터 무결성 (OUTER JOIN)
 
-   ### Problem 3: 외부조인과 데이터 무결성 (OUTER JOIN)
-   - **3a: LEFT JOIN** - 주문하지 않은 고객 찾기
-   - **3b: RIGHT JOIN** - 팔리지 않은 상품 찾기  
-   - **3c: FULL OUTER JOIN** - 데이터 무결성 검사
+- **3a: LEFT JOIN** - 주문하지 않은 고객 찾기 ([SQL](./query_3a.sql) · [풀이](https://app.notion.com/p/3a-LEFT-JOIN-3f30888023968034886bf9cf0adddcfd?source=copy_link))
+- **3b: RIGHT JOIN** - 팔리지 않은 상품 찾기 ([SQL](./query_3b.sql) · [풀이](https://app.notion.com/p/3b-RIGHT-JOIN-3f308880239680bd9849c4b9d43a3fcd?source=copy_link))
+- **3c: FULL OUTER JOIN** - 데이터 무결성 검사 ([SQL](./query_3c.sql) · [풀이](https://app.notion.com/p/3c-FULL-OUTER-JOIN-3f3088802396802ba9eedffd84045cbe?source=copy_link))
