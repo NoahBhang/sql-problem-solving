@@ -140,3 +140,9 @@ query_N.sql
 **🎓 이 포트폴리오는 Coupang Rocket Research Lab과 Musinsa 데이터 분석/엔지니어 직무 지원을 목표로 작성되었습니다.**
 
 **마지막 업데이트:** 2026-10-08
+
+
+   ### Problem 3: 외부조인과 데이터 무결성 (OUTER JOIN)
+   - **3a: LEFT JOIN** - 주문하지 않은 고객 찾기
+   - **3b: RIGHT JOIN** - 팔리지 않은 상품 찾기  
+   - **3c: FULL OUTER JOIN** - 데이터 무결성 검사
