@@ -9,8 +9,8 @@
 SELECT
     p.category AS category_name,
     SUM(o.quantity * p.price) AS total_sales,
-    COUNT(*) AS order_count,
-    AVG(o.quantity * p.price) AS avg_sales_per_order
+    COUNT(DISTINCT o.order_id) AS order_count,
+    SUM(o.quantity * p.price) / COUNT(DISTINCT o.order_id) AS avg_sales_per_order
 FROM orders o
     INNER JOIN products p ON o.product_id = p.product_id
 GROUP BY p.category
