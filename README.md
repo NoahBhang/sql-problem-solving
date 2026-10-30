@@ -63,6 +63,14 @@
 📖 **[상세 풀이 보기](./problem_2_category_sales_analysis.md)**  
 💾 **[쿼리 코드](./query_2.sql)**
 
+
+## 📓 학습 로그 (study-log)
+
+문제 풀이와 별개로, 도구 세팅과 개념 학습 과정을 날짜별로 기록합니다.
+
+| 날짜 | 주제 | 문서 |
+|---|---|---|
+| 2026-10-30 | DataGrip 환경 세팅과 첫 테이블 만들기 | [학습 로그](study-log/2026-10-30_datagrip_setup_and_first_table.md) · [쿼리](study-log/query_2026-10-30_first_table.sql) |
 ---
 
 ## 🛠️ 기술 스택
